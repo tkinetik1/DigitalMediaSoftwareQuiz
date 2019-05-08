@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">DigitalMediaSoftwareQuiz</string>
+
+    <string name="question_text">All digital media art software is for sale only.</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+
 </resources>
