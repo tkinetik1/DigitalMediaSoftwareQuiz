@@ -19,7 +19,7 @@ public class QuizActivity extends AppCompatActivity {
             new Question(R.string.question_visual_art, false),
             new Question(R.string.question_paik, true),
             new Question(R.string.question_degree, true),
-            new Question(R.string.question_programming, true),
+            new Question(R.string.question_programming, false),
     };
 
     private int mCurrentIndex = 0;
