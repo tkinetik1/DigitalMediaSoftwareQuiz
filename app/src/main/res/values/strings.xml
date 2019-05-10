@@ -1,9 +1,14 @@
 <resources>
     <string name="app_name">DigitalMediaSoftwareQuiz</string>
 
-    <string name="question_text">Digital media software is both free and for sale.</string>
+    <string name="next_button">Next</string>
     <string name="true_button">True</string>
     <string name="false_button">False</string>
     <string name="correct_toast">Correct!!</string>
     <string name="incorrect_toast">Incorrect!!!</string>
+    <string name="question_visual_art">Digital media art consists only of visual art.</string>
+    <string name="question_paik">Nam June Paik is a famous digital media artist.</string>
+    <string name="question_new">Digital media is often referred to as "new media".</string>
+    <string name="question_degree">Most universities offer courses in digital media.</string>
+    <string name="question_programming">Digital media doesn\'t include programming.</string>
 </resources>
