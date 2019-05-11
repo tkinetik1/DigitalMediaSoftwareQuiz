@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">DigitalMediaSoftwareQuiz</string>
 
-    <string name="next_button">Next</string>
-    <string name="prev_button">Prev</string>
+    <string name="next_button">Next Button</string>
+    <string name="prev_button">Previous Button</string>
     <string name="true_button">True</string>
     <string name="false_button">False</string>
     <string name="correct_toast">Correct!!</string>
