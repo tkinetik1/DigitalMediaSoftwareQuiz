@@ -100,6 +100,7 @@ public class QuizActivity extends AppCompatActivity {
         updateQuestion();
     }
 
+    // Override onSaveInstanceState, which includes a log, put the Key and mCurrentIndex into the Bundle savedInstanceState
     @Override
     public void onSaveInstanceState(Bundle savedInstanceState) {
         super.onSaveInstanceState(savedInstanceState);
